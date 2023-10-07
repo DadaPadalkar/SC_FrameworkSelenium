@@ -1,1 +1,6 @@
 This is test message for pull command
+1
+2
+3
+4
+5
